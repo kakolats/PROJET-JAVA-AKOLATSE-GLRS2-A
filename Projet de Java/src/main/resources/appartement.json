@@ -1,0 +1,32 @@
+[
+  {
+    "nbrePieces": 2,
+    "nbreLocal": 0,
+    "chambreList": [
+      {
+        "dimension": 2,
+        "nombreReservations": 0,
+        "ref": "RefCCC2",
+        "localisation": "lol",
+        "prix": 48,
+        "tauxLoc": 8,
+        "reservationList": [ ]
+      },
+      {
+        "dimension": 2,
+        "nombreReservations": 0,
+        "ref": "RefCCC3",
+        "localisation": "lol",
+        "prix": 48,
+        "tauxLoc": 8,
+        "reservationList": [ ]
+      }
+    ],
+    "nombreReservations": 0,
+    "ref": "RefCCC1",
+    "localisation": "lol",
+    "prix": 45,
+    "tauxLoc": 5,
+    "reservationList": [ ]
+  }
+]
